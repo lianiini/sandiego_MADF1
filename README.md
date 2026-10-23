@@ -1,17 +1,19 @@
-# student_registration_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# MADF1 - Flutter Navigation, Forms, and User Input
+## Student Information
+Full Name:
+Section:
+Course: Mobile Application Development
+## Repository
+Name: last_name_MADF1
+## Application
+Student Registration and Profile Management Application
+## Technologies - Flutter - Dart - GitHub Codespaces
+## Features - Navigation and Routing - Named Routes - Passing Data Between Screens - TextField and TextEditingController - TextFormField - Form Widget - Form Validation - AlertDialog - SnackBar - setState()
+## How to Run
+1. Open in GitHub Codespaces.
+2. Run `flutter pub get`.
+3. Run `flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000`.
+4. Open forwarded port 3000.
+## Documentation
+Submitted separately as one PDF through Microsoft Teams.
+Replace the template placeholders with your actual information.
